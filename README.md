@@ -94,6 +94,7 @@ The sharing principle of these references here is for research. If any authors d
 * [Markov games as a framework for multi-agent reinforcement learning](https://www.cs.duke.edu/courses/spring07/cps296.3/littman94markov.pdf) by Littman, Michael L. ICML, 1994.
 
 ### Cooperation and competition
+* [Mobile User Interface Adaptation Based on Usability Reward Model and Multi-Agent Reinforcement Learning](https://www.mdpi.com/2414-4088/8/4/26), by  Dmitry Vidmanov and Alexander Alfimtsev, 2024.
 * [Multi-Agent Reinforcement Learning is a Sequence Modeling Problem](https://arxiv.org/pdf/2205.14953.pdf), by Wen, Muning, Jakub Grudzien Kuba, Runji Lin, Weinan Zhang, Ying Wen, Jun Wang, and Yaodong Yang, 2022.
 * [The Complexity of Markov Equilibrium in Stochastic Games](https://arxiv.org/pdf/2204.03991.pdf) by Daskalakis, Constantinos, Noah Golowich, and Kaiqing Zhang, 2022.
 * [Trust region policy optimisation in multi-agent reinforcement learning](https://arxiv.org/pdf/2109.11251.pdf) by Kuba, Jakub Grudzien, Ruiqing Chen, Munning Wen, Ying Wen, Fanglei Sun, Jun Wang, and Yaodong Yang, ICLR 2022.
